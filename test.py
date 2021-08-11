@@ -1,1 +1,1 @@
-print("test!")
+print("remote test")
